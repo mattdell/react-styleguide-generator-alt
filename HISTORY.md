@@ -1,4 +1,4 @@
-# UNRELEASED
+# 3.5.2 (2016-05-06)
   * Adds json-loader to webpack loaders to handle json file types
 
 # 3.5.1 (2016-03-30)
